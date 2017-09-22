@@ -1,0 +1,40 @@
+fileFormatVersion: 2
+guid: e4034f9f24fee8045961368b4664c5de
+timeCreated: 1505925478
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Laying: {instanceID: 0}
+  - Treading: {fileID: 100138, guid: 8296d893e1a8b4244b6d7ccb7fedab69, type: 3}
+  - Floating: {fileID: 100004, guid: 2b95a08f10dcd044f87a95bc83de88c2, type: 3}
+  - Swimming: {fileID: 100138, guid: 5a44549f1c23ca34fa5704adc4da2bad, type: 3}
+  - C1: {fileID: 1646981259178978, guid: 6f993fa0f8fc9f045888054c717741b4, type: 2}
+  - C2: {fileID: 1646981259178978, guid: 6f993fa0f8fc9f045888054c717741b4, type: 2}
+  - C3: {fileID: 1646981259178978, guid: 6f993fa0f8fc9f045888054c717741b4, type: 2}
+  - C4: {fileID: 1646981259178978, guid: 6f993fa0f8fc9f045888054c717741b4, type: 2}
+  - L_rb: {instanceID: 0}
+  - T_rb: {instanceID: 0}
+  - F_rb: {instanceID: 0}
+  - S_rb: {instanceID: 0}
+  - C1_rb: {instanceID: 0}
+  - C2_rb: {instanceID: 0}
+  - C3_rb: {instanceID: 0}
+  - C4_rb: {instanceID: 0}
+  - Player: {instanceID: 0}
+  - rP: {instanceID: 0}
+  - Plane: {instanceID: 0}
+  - field: {fileID: 2100000, guid: 7fc66525d10c6c442b0bd459440cc5a2, type: 2}
+  - space: {fileID: 2100000, guid: 133382bcd210e8b479f80399d98dfc47, type: 2}
+  - stars: {fileID: 2100000, guid: ec1259ac7b21ed4499bb9d8db586f2d3, type: 2}
+  - Sphere: {instanceID: 0}
+  - Rain: {instanceID: 0}
+  - Tree: {instanceID: 0}
+  - Canvas: {instanceID: 0}
+  - history: {instanceID: 0}
+  - grav: {fileID: 2100000, guid: 80301e9f304af674cbf9bf5c533b7777, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

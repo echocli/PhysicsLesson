@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "physcardboard.Plugins", "physcardboard.Plugins.csproj", "{DE15589D-4A52-11AE-25B5-DB3A2E2DC831}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "physcardboard", "physcardboard.csproj", "{F43F3555-5CB1-8C56-AD00-BDC64DEA3D21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "physcardboard.Editor.Plugins", "physcardboard.Editor.Plugins.csproj", "{7524168F-449C-67F5-B5CF-FA1B9CD1D736}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "physcardboard.Editor", "physcardboard.Editor.csproj", "{4DD42E01-2671-8779-F1F6-EE8BD10E3FAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE15589D-4A52-11AE-25B5-DB3A2E2DC831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE15589D-4A52-11AE-25B5-DB3A2E2DC831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE15589D-4A52-11AE-25B5-DB3A2E2DC831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE15589D-4A52-11AE-25B5-DB3A2E2DC831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F43F3555-5CB1-8C56-AD00-BDC64DEA3D21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43F3555-5CB1-8C56-AD00-BDC64DEA3D21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43F3555-5CB1-8C56-AD00-BDC64DEA3D21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43F3555-5CB1-8C56-AD00-BDC64DEA3D21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7524168F-449C-67F5-B5CF-FA1B9CD1D736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7524168F-449C-67F5-B5CF-FA1B9CD1D736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7524168F-449C-67F5-B5CF-FA1B9CD1D736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7524168F-449C-67F5-B5CF-FA1B9CD1D736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DD42E01-2671-8779-F1F6-EE8BD10E3FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD42E01-2671-8779-F1F6-EE8BD10E3FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD42E01-2671-8779-F1F6-EE8BD10E3FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD42E01-2671-8779-F1F6-EE8BD10E3FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
